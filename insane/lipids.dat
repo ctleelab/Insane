@@ -54,6 +54,8 @@ M3.DOPS  -1   -   -   -  CNO  -  PO4 GL1 GL2 C1A D2A C3A C4A  -   -  C1B D2B C3B
 M3.DPPS  -1   -   -   -  CNO  -  PO4 GL1 GL2 C1A C2A C3A C4A  -   -  C1B C2B C3B C4B  -   - 
 M3.PAPS  -1   -   -   -  CNO  -  PO4 GL1 GL2 C1A D2A D3A D4A C5A  -  C1B C2B C3B C4B  -   - 
 M3.POPA  -1   -   -   -   -   -  PO4 GL1 GL2 C1A D2A C3A C4A  -   -  C1B C2B C3B C4B  -   - 
+M3.DOPA  -1   -   -   -   -   -  PO4 GL1 GL2 C1A D2A C3A C4A  -   -  C1B D2B C3B C4B  -   - 
+M3.DPPA  -1   -   -   -   -   -  PO4 GL1 GL2 C1A C2A C3A C4A  -   -  C1B C2B C3B C4B  -   - 
 M3.PSM    0   -   -   -  NC3  -  PO4 OH1 AM2 T1A C2A C3A C4A  -   -  C1B C2B C3B C4B  -   - 
 M3.SSM    0   -   -   -  NC3  -  PO4 OH1 AM2 T1A C2A C3A C4A  -   -  C1B C2B C3B C4B  -   - 
 M3.ASM    0   -   -   -  NC3  -  PO4 OH1 AM2 T1A C2A C3A C4A  -   -  C1B C2B C3B C4B C5B  - 
